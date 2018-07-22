@@ -1,0 +1,98 @@
+%[sanduiche_cardapio]
+    pode me enviar o seu @[cardapio]
+    quais os tipos de @[cardapio] que tem
+    que @[cardapio] tem aí?
+    @[cardapio]
+    que @[cardapio] vocês trabalham?
+    @[cardapio] o que?
+    quero ver o @[cardapio]
+    me manda seu @[cardapio]
+
+%[sanduiche_brigitte]
+    @[ingredientes] @[frango]
+    @[frango]
+    quero um @[frango]
+
+%[sanduiche_bovino]
+    ingredientes @[hamburguer_bovino]
+    @[hamburguer_bovino]
+    quero um @[hamburguer_bovino]
+
+%[sanduiche_madonna]
+    @[ingredientes] @[madonna]
+
+%[forma_pagamento]
+    quais as @[forma_pagamento]
+    aceita @[forma_pagamento]
+
+@[cardapio]
+    ~[cardapio]
+
+~[cardapio]
+    cardápio
+    tipo de sanduiche
+    lanche
+    cardapio
+    tipo de sanduíche
+    menu
+    lista de sanduiches
+    lista de sanduíches
+    comida
+    servem
+    opções
+
+@[frango]
+    ~[sanduiche_de_frango]
+
+@[ingredientes]
+    ~[ingredientes]
+
+~[sanduiche_de_frango]
+    sanduíche_de_frango
+    brigitte
+    brigite
+    frango
+
+~[ingredientes]
+    ingredientes
+    vai o que
+    o que tem
+    o que mais tem
+    é feito de que
+    descrição
+    explica
+    como é
+
+@[hamburguer_bovino]
+    ~[hamburguer_bovino]
+
+~[hamburguer_bovino]
+    hamburguer_bovino
+    sanduiche carne
+    bovino
+    gourmet
+    artesanal
+
+@[madonna]
+    ~[madonna]
+
+~[madonna]
+    madonna
+    o mais barato
+    simples
+    simples sem bacon
+
+@[forma_pagamento]
+    ~[forma_pagamento]
+
+~[forma_pagamento]
+    forma_pagamento
+    formas de pagamento
+    cartão
+    vale
+    dinheiro
+    vr
+    alimentação
+    pagar
+    cheque
+
