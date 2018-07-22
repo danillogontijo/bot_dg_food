@@ -1,0 +1,22 @@
+{
+  "states": [
+    "intent_cumprimento",
+    "intent_sanduiche_cardapio",
+    "intent_sanduiche_brigitte",
+    "intent_sanduiche_bovino",
+    "intent_forma_pagamento",
+    "entity_cardapio",
+    "entity_sanduiche_frango",
+    "entity_sanduiche_bovino",
+    "entity_pagamento",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_utter_cumprimento",
+    "prev_utter_cardapio",
+    "prev_utter_sanduiche",
+    "prev_utter_sanduiche_brigite",
+    "prev_utter_sanduiche_bovino",
+    "prev_utter_forma_pagamento",
+    "prev_utter_algo_mais"
+  ]
+}

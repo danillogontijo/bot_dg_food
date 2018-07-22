@@ -1,0 +1,38 @@
+intents:
+    - cumprimento
+    - sanduiche_cardapio
+    - sanduiche_brigitte
+    - sanduiche_bovino
+    - forma_pagamento
+    
+entities:
+    - cardapio
+    - sanduiche_frango
+    - sanduiche_bovino
+    - pagamento
+
+templates:
+    utter_cumprimento:
+        - 'Olá, como posso lhe ajudar?'
+        - 'Oi, estou aqui para ajudar.'
+    utter_cardapio:
+        - 'Nosso cardápio é composto por 5 tipos de sanduiches: brigitte, madonna, elvis, raul e tim maia'
+    utter_sanduiche:
+        - 'Gostaria de obter mais informação de um sanduiche específico? Digite o nome dele ou tente alguma especificação qualquer.'
+    utter_sanduiche_brigite:
+         - 'Brigitte: pão com gergelim, hambúrguer artesanal de frango de 135g, queijo cheddar, alface, tomate, cebola roxa e molho. Preço: R$ 16,40.'
+    utter_sanduiche_bovino:
+         - 'O nosso hamburguer bovino tem 135g, é feito artesanalmente, a partir de carnes selecionadas e com temperos excluisivos para dar o toque gourmet'
+         - 'Sanduíches de carne bovina são: Madonna (simples), Elvis (simples e com bacon), Raul (duplo), Tim Maia (duplo com bacon).'
+    utter_algo_mais:
+        - 'Posso lhe ajudar em algo mais? Faça uma nova pergunta :)'
+    utter_forma_pagamento:
+        - 'Aceitamos todos os tipos de cartão e dinheiro.'
+actions:
+    - utter_cumprimento
+    - utter_cardapio
+    - utter_sanduiche
+    - utter_sanduiche_brigite
+    - utter_sanduiche_bovino
+    - utter_forma_pagamento
+    - utter_algo_mais
